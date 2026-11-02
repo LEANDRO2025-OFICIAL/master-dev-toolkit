@@ -1,0 +1,14 @@
+[
+  {
+    "name": "remotion-dev/remotion",
+    "url": "https://github.com/remotion-dev/remotion",
+    "stars": 69753,
+    "desc": "🎥      Make videos programmatically with React"
+  },
+  {
+    "name": "FFmpeg/FFmpeg",
+    "url": "https://github.com/FFmpeg/FFmpeg",
+    "stars": 66233,
+    "desc": "Mirror of https://git.ffmpeg.org/ffmpeg.git"
+  }
+]

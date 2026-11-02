@@ -1,2 +1,2 @@
-*/
-!*/.gitkeep
+# Ignore nothing by default — all curated content is tracked.
+# Empty directories are preserved via .gitkeep files where needed.

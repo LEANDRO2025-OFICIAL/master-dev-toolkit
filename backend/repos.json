@@ -1,0 +1,14 @@
+[
+  {
+    "name": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "stars": 75282,
+    "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "name": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "stars": 61612,
+    "desc": "Open Source realtime backend in 1 file"
+  }
+]

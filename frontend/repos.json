@@ -1,0 +1,14 @@
+[
+  {
+    "name": "react/react",
+    "url": "https://github.com/react/react",
+    "stars": 252071,
+    "desc": "The library for web and native user interfaces."
+  },
+  {
+    "name": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "stars": 212494,
+    "desc": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
+  }
+]

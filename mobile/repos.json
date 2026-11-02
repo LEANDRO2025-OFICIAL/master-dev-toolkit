@@ -1,0 +1,14 @@
+[
+  {
+    "name": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "stars": 418738,
+    "desc": "Reverse engineer anything with agents, from app behavior down to native binaries."
+  },
+  {
+    "name": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "stars": 180958,
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond"
+  }
+]

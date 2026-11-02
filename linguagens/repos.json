@@ -1,0 +1,14 @@
+[
+  {
+    "name": "golang/go",
+    "url": "https://github.com/golang/go",
+    "stars": 139730,
+    "desc": "The Go programming language"
+  },
+  {
+    "name": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "stars": 120965,
+    "desc": "Empowering everyone to build reliable and efficient software."
+  }
+]
